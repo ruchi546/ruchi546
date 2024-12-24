@@ -33,7 +33,7 @@
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black" alt="YouTube">
         </p>
         <p align="left">
-          A Unity editor extension designed to simplify dynamic time and weather management. Easily configure lighting, fog, and weather effects like rain and snow. Create, save, and load custom presets to improve workflow.
+The Time Master Tool is a custom Unity Editor extension that facilitates dynamic control of time, lighting, and weather effects within a Unity scene. It provides a user-friendly interface for artists and designers to manage environmental settings such as time of day, fog, rain, snow, and cloud states. The tool also enables saving and loading presets for consistent environmental setups.
         </p>
       </div>
     </td>
