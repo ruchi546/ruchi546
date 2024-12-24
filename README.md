@@ -18,6 +18,25 @@
 
 <table>
   <tr>
+    <!-- Time Master Tool Project -->
+    <td width="50%">
+      <h3 align="center">Time Master Tool</h3>
+      <div align="center">
+        <a href="https://github.com/ruchi546/Time-Master-Tool" target="_blank">
+          <img src="https://imgur.com/0fwXFPy.png" width="400" alt="Time Master Tool">
+        </a>
+        <p>
+          <a href="https://github.com/ruchi546/Time-Master-Tool">
+            <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+          </a>
+          <a href="https://youtu.be/0yUVGae7ons">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black" alt="YouTube">
+        </p>
+        <p align="center">
+          A Unity editor extension designed to simplify dynamic time and weather management. Easily configure lighting, fog, and weather effects like rain and snow. Create, save, and load custom presets to improve workflow.
+        </p>
+      </div>
+    </td>
     <!-- 2D Game Development Project -->
     <td width="50%">
       <h3 align="center">2D Game Development with Unity and Raylib</h3>
@@ -46,6 +65,8 @@
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <!-- Shooting Arcade Project -->
     <td width="50%">
       <h3 align="center">Shooting Arcade</h3>
@@ -76,9 +97,9 @@
             <li>Whac a Mole</li>
             <li>Score Table</li>
           </ul>
-      </p>
-  </tr>
-  <tr>
+        </p>
+      </div>
+    </td>
     <!-- Ninja's Journey Project -->
     <td width="50%">
       <h3 align="center">Ninja's Journey</h3>
