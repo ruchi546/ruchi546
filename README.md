@@ -32,7 +32,7 @@
           <a href="https://youtu.be/0yUVGae7ons">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black" alt="YouTube">
         </p>
-        <p align="center">
+        <p align="left">
           A Unity editor extension designed to simplify dynamic time and weather management. Easily configure lighting, fog, and weather effects like rain and snow. Create, save, and load custom presets to improve workflow.
         </p>
       </div>
