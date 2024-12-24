@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
+    <a href="https://rogerarboles.notion.site/Roger-Arboles-Portfolio-66389b4de1494804a109232525263eb5?pvs=74">
+    <img src="https://img.shields.io/badge/COMPLETE PORTFOLIO-cyan?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/roger-arboles-sanchis">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://rogerarboles.notion.site/Roger-Arboles-Portfolio-66389b4de1494804a109232525263eb5?pvs=74">
-    <img src="https://img.shields.io/badge/PORTFOLIO-cyan?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio" />
   </a>
   <a href = "mailto:rogerarboles@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rogerarboles" />
