@@ -31,6 +31,9 @@
           <a href="https://www.youtube.com/watch?v=0Lm5qm5_OEc">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black" alt="YouTube">
           </a>
+           <a href="https://ruchi546.itch.io/ski-sdl3" target="_blank">
+            <img src="https://img.shields.io/badge/ITCH.io-gray?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io">
+          </a>
         </p>
         <p align="left">
 A simple 2D skiing game created using C++ and the SDL3 library. Players control a skier descending a mountain, avoiding obstacles to score points. The objective is to survive as long as possible. Colliding with an obstacle results in a game over, displaying the player's score with an option to restart.
