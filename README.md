@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Roger Arboles 👋</h1>
 </div>
-
 <p align="center">
     <a href="https://rogerarboles.notion.site/Roger-Arboles-Portfolio-66389b4de1494804a109232525263eb5?pvs=74">
     <img src="https://img.shields.io/badge/COMPLETE PORTFOLIO-cyan?style=for-the-badge&logo=notion&logoColor=black" alt="Portfolio" />
@@ -18,6 +17,25 @@
 
 <table>
   <tr>
+    <!-- SKI SDL Project -->
+    <td width="50%">
+      <h3 align="center">SKI SDL3</h3>
+      <div align="center">
+        <a href="https://github.com/ruchi546/SKI_SDL3" target="_blank">
+          <img src="https://i.imgur.com/y6ekpXE.png" width="400" alt="Ski Sdl">
+        </a>
+        <p>
+          <a href="https://github.com/ruchi546/SKI_SDL3">
+            <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+          </a>
+          <a href="https://www.youtube.com/watch?v=0Lm5qm5_OEc">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black" alt="YouTube">
+          </a>
+        </p>
+        <p align="left">
+A simple 2D skiing game created using C++ and the SDL3 library. Players control a skier descending a mountain, avoiding obstacles to score points. The objective is to survive as long as possible. Colliding with an obstacle results in a game over, displaying the player's score with an option to restart.
+      </div>
+    </td>
     <!-- Time Master Tool Project -->
     <td width="50%">
       <h3 align="center">Time Master Tool</h3>
@@ -37,6 +55,8 @@ The Time Master Tool is a custom Unity Editor extension that facilitates dynamic
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <!-- 2D Game Development Project -->
     <td width="50%">
       <h3 align="center">2D Game Development with Unity and Raylib</h3>
@@ -65,8 +85,6 @@ The Time Master Tool is a custom Unity Editor extension that facilitates dynamic
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <!-- Shooting Arcade Project -->
     <td width="50%">
       <h3 align="center">Shooting Arcade</h3>
@@ -100,6 +118,8 @@ The Time Master Tool is a custom Unity Editor extension that facilitates dynamic
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <!-- Ninja's Journey Project -->
     <td width="50%">
       <h3 align="center">Ninja's Journey</h3>
